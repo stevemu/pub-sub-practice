@@ -1,0 +1,1 @@
+# a simple react app that show case publisher/subscriber pattern
